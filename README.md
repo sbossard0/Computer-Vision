@@ -1,12 +1,13 @@
 # Computer-Vision
 
-Instructions to run program for HW1:
+Instructions to run driver (cv_driver):
 
 1. Open all the .m files and images into your Matlab workspace
 2. Open up cv_driver.m
 3. Run the file
 4. Outputs will be present
 
+Includes many different computer visison techniques. 
 
 Quantization Effect:
 Part A: Create a function that quantizes any real number (x) with L levels. The function should input x, L, the minimum value, and the maximum value given below.
